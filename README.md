@@ -22,3 +22,10 @@ print(z)
 {
  "say": "GIGAHUT",
 }
+echo "# chad-dods" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/SushiPizzaSauce/chad-dods.git
+git push -u origin main
